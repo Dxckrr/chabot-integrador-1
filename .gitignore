@@ -1,0 +1,38 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.env
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+egg-info/
+.installed.cfg
+*.egg-info/
+*.egg
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Pytest
+.cache
+*.cover
+*.log
+coverage.xml
+*.xml
+
+# VS Code settings
+.vscode/
+
+# Other IDE settings
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Miscellaneous
+*.DS_Store
