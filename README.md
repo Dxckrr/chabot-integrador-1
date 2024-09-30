@@ -3,6 +3,7 @@
 ``` bash
 pip install -r requirements.txt
 ```
+```bibtex
 @article{10.1093/bib/bbac409,
     author = {Luo, Renqian and Sun, Liai and Xia, Yingce and Qin, Tao and Zhang, Sheng and Poon, Hoifung and Liu, Tie-Yan},
     title = "{BioGPT: generative pre-trained transformer for biomedical text generation and mining}",
